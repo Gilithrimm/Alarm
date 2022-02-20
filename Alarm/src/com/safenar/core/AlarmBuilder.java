@@ -1,6 +1,6 @@
-package com.safenar.ui;
+package com.safenar.core;
 
-import com.safenar.core.Alarm;
+import com.safenar.ui.AlarmComp;
 
 import java.io.File;
 

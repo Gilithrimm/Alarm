@@ -1,5 +1,7 @@
 package com.safenar.ui;
 
+import com.safenar.core.AlarmBuilder;
+
 import javax.swing.*;
 import java.awt.*;
 import java.time.LocalTime;
